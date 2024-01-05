@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.reset-btn {
+  bottom: 50%;
+  transform: translateY(-50%);
+  right: -5rem;
+}
